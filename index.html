@@ -49,7 +49,17 @@
             <span>
               Honours of Electrical Engineering </br> Web Developer
             </span>
-            <button class="button">Welcome to my Web!</button>
+           
+           <script>
+              function play() {
+                var audio = document.getElementById("audio");
+                audio.play();
+              }
+            </script>
+        
+            <input class = "button" type="button" value="Welcome to my Web" onclick="play()">
+            <audio id="audio" src="./resources/audio/爱在西元前.mp3"></audio>
+          
           </div>
         </div>
       </div>
