@@ -345,7 +345,7 @@ header .mobile {
 }
 
 #filters-section .content h2 {
-  font-family:"Damion", cursive;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   font-size: 3.00rem;
   font-weight: bold;
   color: white;
@@ -410,7 +410,7 @@ header .mobile {
 
 #quotes-section .quote {
   padding-right: 1.875rem;
-  font-family: "Palatino", serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 1.875rem;
   line-height: 1.1;
   font-style: italic;
